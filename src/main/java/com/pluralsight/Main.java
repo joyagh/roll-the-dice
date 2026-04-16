@@ -20,6 +20,16 @@ public class Main {
             int sum = roll1 + roll2;
             System.out.println("Roll " + i + ": " + roll1 + "-" + roll2 + " Sum: " + sum);
 
+            if (sum == 2){
+                twoCounter++;
+            } else if (sum == 4){
+                fourCounter++;
+            }else if (sum == 6){
+                sixCounter++;
+            }else if (sum == 7){
+                sevenCounter++;
+            }
+
         }
 
     }
