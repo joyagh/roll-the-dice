@@ -18,6 +18,7 @@ public class Main {
             roll2 = dice.roll();
 
             int sum = roll1 + roll2;
+            System.out.println("Roll " + i + ": " + roll1 + "-" + roll2 + " Sum: " + sum);
 
         }
 
