@@ -31,6 +31,11 @@ public class Main {
             }
 
         }
+        System.out.println("Final Count: ");
+        System.out.println("2s: " + twoCounter);
+        System.out.println("4s: " + fourCounter);
+        System.out.println("6s: " + sixCounter);
+        System.out.println("7s: " + sevenCounter);
 
     }
 }
