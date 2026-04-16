@@ -14,6 +14,8 @@ public class Main {
         int sevenCounter = 0;
 
         for (int i=1; i <=100; i++){
+            roll1 = dice.roll();
+            roll2 = dice.roll();
 
         }
 
