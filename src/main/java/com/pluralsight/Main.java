@@ -17,6 +17,8 @@ public class Main {
             roll1 = dice.roll();
             roll2 = dice.roll();
 
+            int sum = roll1 + roll2;
+
         }
 
     }
