@@ -13,5 +13,9 @@ public class Main {
         int sixCounter = 0;
         int sevenCounter = 0;
 
+        for (int i=1; i <=100; i++){
+
+        }
+
     }
 }
